@@ -43,8 +43,7 @@ export default defineUserConfig({
             'questions-clauses.md',
             'grammar-particles.md',
             'numbers-maths.md',
-            'advanced-vocabulary.md',
-            'extra.md'
+            'advanced-vocabulary.md'
             // add more chapters later
           ],
         },
