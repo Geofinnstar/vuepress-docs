@@ -92,11 +92,11 @@ export default defineUserConfig({
           text: 'Example Texts',
           children: [
             'README.md',
-            'lanki-je-lipu-namu.md',
-            '/texts/poetry-anthology/'
+            'lanki-je-lipu-namu.md'
             // add more texts later
           ]
-        }
+        },
+        '/texts/poetry-anthology/'
       ],
       '/texts/poetry-anthology/': [
         '/texts/',
