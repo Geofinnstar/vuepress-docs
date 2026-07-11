@@ -18,6 +18,7 @@
     "markdown-it-regex": "^0.2.2",
     "sass-embedded": "^1.99.0",
     "vue": "^3.5.34",
-    "vuepress": "2.0.0-rc.30"
+    "vuepress": "2.0.0-rc.30",
+    "undici": "7.28.0"
   }
 }
