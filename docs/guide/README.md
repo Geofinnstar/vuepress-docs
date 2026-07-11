@@ -21,4 +21,4 @@ So you have decided to learn a simple and small language to be able to speak wit
 
 When a new word appears in the course, it will be **bolded**; its meaning should be obvious with the translation of the sentence; but if it is not, or if you have forgot it, look for it in [the dictionary](https://dictionary.kokanu.com).
 
-If you are finished with the course, join us on [Discord](https://discord.gg/fMAfGRkGvQ) or read some [texts](/texts.md) in Kokanu.
+If you are finished with the course, join us on [Discord](https://discord.gg/fMAfGRkGvQ) or read some [texts](/texts/) in Kokanu.
