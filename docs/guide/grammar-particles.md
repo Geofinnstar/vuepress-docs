@@ -1,6 +1,6 @@
-# 6. Grammar Particles
+# 6. Grammatical Particles
 
-In this chapter, we introduce the rest of Kokanu’s grammar particles — starting from the simplest and most common, and working our way up to the more complex and uncommon ones.
+In this chapter, we introduce the rest of Kokanu’s grammatical particles — starting from the simplest and most common, and working our way up to the more complex and uncommon ones.
 
 ---
 
@@ -53,7 +53,7 @@ It can be placed at the end of a sentence to add emphasis (a "spoken exclamation
 
 | Kokanu phrase                            | Meaning                          |
 |------------------------------------------|----------------------------------|
-| **men mi le no makan in kuwosi tu**      | I did not eat your fruit         |
+| **men mi le no makan in kuwosi tu**      | I didn't eat your fruit         |
 | **o no kota in na men tu la!**           | you shouldn't say that!          |
 
 **no** can also negate different parts of the sentence to change the meaning. Keep in mind that negating the sentence's verb is the default way to negate the whole clause.
@@ -65,7 +65,9 @@ It can be placed at the end of a sentence to add emphasis (a "spoken exclamation
 
 **no** can also negate a *te*-clause:
 
-- **mi le suki te no makan** → “I like not to eat.”
+- **mi le suki te no makan** → “I like to not eat.”
+
+Another important use of **no** is to negate **je** and **wi**, but those will both be explained later.
 
 ::: tip New Words
 - **no** = negation  
@@ -84,7 +86,7 @@ Any word that comes after **je** is automatically converted to its **noun meanin
 |-----------------------------|---------------------------|
 | **makan je pawo**           | the dog’s food            |
 | **uli je niku**             | weakness of muscles       |
-| **makan je pumi tula**      | food of the distant land
+| **makan je pumi tula**      | food of the distant land  |
 | **sapole je makan**         | taste of food     |
 | **insu je hela**      |  building of sacredness    |
 | **makan je pawo cenpo**     | the big dog’s food        |
@@ -97,6 +99,15 @@ A common use of **je** is to regroup modifiers. Normally, all modifiers apply to
 But what if you wanted to mean "food of good taste" (good tasting food)? That's right, you'd use **je**!
 
 - "**makan *je* sapole tope** == "**makan je ((sapole) tope)**" (food of good taste)
+
+And hey, don't forget about our old friend **no**!
+
+| Kokanu phrase              | Meaning                   |
+|-----------------------------|---------------------------|
+| **makan je pawo**           | the dog’s food            |
+| **makan je no pawo**        | the not dog's food       |
+| **makan je pumi tula**      | food of the distant land  |
+| **makan je no pumi tula**   | food of the not distant land  |
 
 ::: tip New Words
 - **je** = relational particle
@@ -210,7 +221,10 @@ Keep in mind that there is no one way to say things in Kokanu, and that everythi
 | **mi le kanisa sone so tu**          | I think differently than you      |
 | **mi le teka in sin saman so tu**    | I see the same thing as you       |
 
+Unlike prepositions, the placement of **so** important. This fact will be demonstrated later.
+
 ::: tip New Words
+- **so** = comparison particle ("than")
 - **sone** = different  
 - **kanisa** = to think  
 - **teka** = to see  
@@ -246,54 +260,78 @@ To directly **compare** two things, the first one goes between *mese/menu* and *
 | Kokanu phrase                          | Meaning                            |
 | -------------------------------------- | ---------------------------------- |
 | **mi le makan in menu niku so kuwosi** | I eat less meat than fruit         |
-| **ja ne ju mese te kela so te antomi** | He wants to play rather than sleep |
+| **ja le ju mese te kela so te antomi** | He wants to play rather than sleep |
+
+Notice that the placement of **so** in important here.
+
+| Kokanu phrase                          | Meaning                            |
+| -------------------------------------- | ---------------------------------- |
+| **mi le makan in menu niku so kuwosi** | I eat less meat than I eat fruit   |
+| **mi so kuwosi le makan in menu niku** | I eat less meat than fruit does    |
+
+The first phrase is the normal translation of the English sentence "I eat less meat than fruit", but the second sentence implies that the fruit eats meat.
 
 ---
 
 ## 6.7 **wi**
 
-We have already learned how word derivations work and how, for example, to use nouns as verbs. But we do not yet have full control over derivations. We cannot say "I'm visible" directly. *mi le teka* would mean "I see".
-To express "I am visible", we need to **first** force *teka* to be a **modifier** and then use that modifier as a verb. This is done with ***wi***. *wi* takes the next word or phrase and converts it into a base modifier. It is then interpreted just like how a base modifier would be.
+This guide has already covered how word derivations work and how, for example, to use nouns as verbs. But the guide is still yet to cover the full range of word derivations. This guide has not covered how one would say "I'm visible" directly. *mi le teka* would mean "I see".
+
+To express "I am visible", *teka* first needs to become a **modifier**, and then that **modifier** must be used as a **verb**. This is done with **wi**. **wi** takes the next word or phrase and converts it into a base modifier. It is then interpreted just like how a base modifier would be.
 
 **Examples:**
 
 | Kokanu phrase               | Meaning                                                         |
 | --------------------------- | --------------------------------------------------------------- |
+| **makan**                   | food                                                            |
+| **wi makan**                | edible/food-like                                                |
+| **pansin**                  | rectangle                                                       |
+| **wi pansin**               | rectangular                                                     |
+| **mi le pansin**            | I am a rectangle                                                |
+| **mi le wi pansin**         | I am rectangular                                                |
+| **mi le teka**              | I see                                                           |
 | **mi le wi teka**           | I am visible                                                    |
-| **ne nin le wi konpute la** | That person is computer-like! / That person is like a computer! |
-| **wi makan le sankan** | Edibility is important |
+| **ne nin le wi konpute la** | That person is computer-like! |
+| **wi makan le sankan**      | Edibility is important |
 
 ::: tip New Words
-
-* **konpute** = computer
-* **sankan** = important
+- **konpute** = computer
+- **sankan** = important
 :::
 
-With a modifier, *wi* is generally redundant. However, as a particle, it can be negated with *no*.
+With a modifier, **wi** is generally redundant. For example, "tope" and "wi tope" would both mean the exact same thing: "good". However, as a particle, **wi** can be negated with **no** to form new constructions.
 
 **Examples:**
 
 | Kokanu phrase                          | Meaning              |
 | -------------------------------------- | -------------------- |
+| **makan tope** | good food |
+| **makan *wi no* tope** | non-good food |
+| **sin makan**          | edible thing |
+| **sin *wi no* makan**  | inedible thing |
 | **mi le makan in makan wi no pikante** | I ate non-spicy food |
-
-The same applies to words that are modifiers by position:
-
-**Examples:**
-
-| Kokanu phrase                         | Meaning                 |
-| ------------------------------------- | ----------------------- |
 | **mi le makan in kuwosi wi no makan** | I ate an inedible fruit |
+
+Notice here how **makan** isn't a base modifier (it is a base verb), and yet it can still be used in the same *wi no* construction.
+
+**wi** has one more important property, but it will be covered later.
 
 ---
 
 ## 6.8 **wen**
 
-**wen** has two functions:
+**wen** is the copula-apposition marker. It is the equivalent of "that is" in English.
 
-* Like *wi*, it can convert the word after it into a noun.
+| Kokanu phrase       | Meaning      |
+| ------------------- | ------------ |
+| **makan wen kuwosi** | Food that is fruit |
+| **canwa wen kuku**   | An animal that is a bird |
 
-**Examples:**
+Notice here how **wen** is only used with **kuwosi** and **kuku**. Whatever comes after **wen** is automatically forced into its **noun meaning**. So something like:
+
+- "nin wen tope" would *not* mean "a person that is good", it would mean "a person that is (the concept of) goodness"
+
+**wen** is also used to say that something is a base verb.
 
 | Kokanu phrase       | Meaning      |
 | ------------------- | ------------ |
